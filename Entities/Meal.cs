@@ -1,4 +1,4 @@
-﻿namespace AiFit.Entities
+﻿namespace IaFit.Entities
 {
     public class Meal
     {

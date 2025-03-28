@@ -1,4 +1,4 @@
-﻿namespace Aifit.Entities
+﻿namespace IaFit.Entities
 {
     public class NutritionPlan
     {

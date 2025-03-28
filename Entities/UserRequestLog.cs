@@ -1,4 +1,4 @@
-﻿namespace DietSaaS.Entities
+﻿namespace IaFit.Entities
 {
     public class UserRequestLog
     {

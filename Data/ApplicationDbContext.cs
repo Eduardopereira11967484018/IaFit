@@ -1,4 +1,4 @@
-﻿//using IaFit.Entities;
+﻿using IaFit.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace IaFit.Data
