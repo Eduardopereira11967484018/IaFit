@@ -1,6 +1,7 @@
 ﻿using IaFit.Data;
 using IaFit.Entities;
-using IaFit.EntityFrameworkCore;
+// Removed unused or invalid namespace reference
+using Microsoft.EntityFrameworkCore;
 
 namespace IaFit.Services
 {

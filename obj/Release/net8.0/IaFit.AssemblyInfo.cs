@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IaFit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93948c0a31762e68577fd47d22c0f1a473bf2ab0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70785b35e75f93652fe05b6378ccfa49add83e26")]
 [assembly: System.Reflection.AssemblyProductAttribute("IaFit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IaFit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

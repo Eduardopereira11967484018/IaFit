@@ -1,28 +1,14 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace IaFit.Models
+﻿namespace IaFit.Models
 {
     public class NutritionPlanDto
     {
-        [Required]
         public string Name { get; set; } = string.Empty;
-
-        [Required]
+        public string Weight { get; set; } = string.Empty;
+        public string Height { get; set; } = string.Empty;
+        public string Age { get; set; } = string.Empty;
         public string Gender { get; set; } = string.Empty;
-
-        [Range(1, 150)]
-        public int Age { get; set; }
-
-        [Range(0.5, 3.0)]
-        public decimal Height { get; set; }
-
-        [Range(20, 500)]
-        public decimal Weight { get; set; }
-
-        [Required]
         public string Objective { get; set; } = string.Empty;
-
-        [Required]
-        public string ActivityLevel { get; set; } = string.Empty;
+        public string Level { get; set; } = string.Empty;
+        public string Frequency { get; set; } = string.Empty; // Adicionado para corresponder ao frontend
     }
 }
