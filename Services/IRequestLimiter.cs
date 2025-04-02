@@ -1,5 +1,4 @@
-﻿
-namespace IaFit.Services
+﻿namespace IaFit.Services
 {
     public interface IRequestLimiter
     {
